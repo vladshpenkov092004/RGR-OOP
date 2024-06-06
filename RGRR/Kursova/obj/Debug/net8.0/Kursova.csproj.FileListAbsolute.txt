@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Kursova\Kursova\bin\Debug\net8.0\Kursova.exe
+C:\Users\Lenovo\source\repos\Kursova\Kursova\bin\Debug\net8.0\Kursova.deps.json
+C:\Users\Lenovo\source\repos\Kursova\Kursova\bin\Debug\net8.0\Kursova.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Kursova\Kursova\bin\Debug\net8.0\Kursova.dll
+C:\Users\Lenovo\source\repos\Kursova\Kursova\bin\Debug\net8.0\Kursova.pdb
+C:\Users\Lenovo\source\repos\Kursova\Kursova\obj\Debug\net8.0\Kursova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Kursova\Kursova\obj\Debug\net8.0\Kursova.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Kursova\Kursova\obj\Debug\net8.0\Kursova.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Kursova\Kursova\obj\Debug\net8.0\Kursova.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Kursova\Kursova\obj\Debug\net8.0\Kursova.dll
+C:\Users\Lenovo\source\repos\Kursova\Kursova\obj\Debug\net8.0\refint\Kursova.dll
+C:\Users\Lenovo\source\repos\Kursova\Kursova\obj\Debug\net8.0\Kursova.pdb
+C:\Users\Lenovo\source\repos\Kursova\Kursova\obj\Debug\net8.0\Kursova.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Kursova\Kursova\obj\Debug\net8.0\ref\Kursova.dll

@@ -1,0 +1,6 @@
+﻿Build started at 12:00...
+1>------ Build started: Project: RestaurantMenu, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>RestaurantMenu -> C:\Users\Lenovo\source\repos\Kursova\RestaurantMenu\bin\Debug\net8.0-windows\RestaurantMenu.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 12:00 and took 06,103 seconds ==========

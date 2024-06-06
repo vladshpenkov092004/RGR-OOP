@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\RGRR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07B350E9-1C4A-4D95-B13E-D690EE491DB4}|RestaurantMenu\\RestaurantMenu.csproj|C:\\Users\\Lenovo\\source\\repos\\RGRR\\restaurantmenu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B350E9-1C4A-4D95-B13E-D690EE491DB4}|RestaurantMenu\\RestaurantMenu.csproj|solutionrelative:restaurantmenu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6E137D-5E43-4D9A-A6F7-67B4FCC124B8}|Kursova\\RGR.csproj|c:\\users\\lenovo\\source\\repos\\rgrr\\kursova\\rgr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C6E137D-5E43-4D9A-A6F7-67B4FCC124B8}|Kursova\\RGR.csproj|solutionrelative:kursova\\rgr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B350E9-1C4A-4D95-B13E-D690EE491DB4}|RestaurantMenu\\RestaurantMenu.csproj|C:\\Users\\Lenovo\\source\\repos\\RGRR\\restaurantmenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B350E9-1C4A-4D95-B13E-D690EE491DB4}|RestaurantMenu\\RestaurantMenu.csproj|solutionrelative:restaurantmenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6E137D-5E43-4D9A-A6F7-67B4FCC124B8}|Kursova\\Kursova.csproj|C:\\Users\\Lenovo\\source\\repos\\RGRR\\kursova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6E137D-5E43-4D9A-A6F7-67B4FCC124B8}|Kursova\\Kursova.csproj|solutionrelative:kursova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6E137D-5E43-4D9A-A6F7-67B4FCC124B8}|Kursova\\Kursova.csproj|C:\\Users\\Lenovo\\source\\repos\\RGRR\\kursova\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6E137D-5E43-4D9A-A6F7-67B4FCC124B8}|Kursova\\Kursova.csproj|solutionrelative:kursova\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6E137D-5E43-4D9A-A6F7-67B4FCC124B8}|Kursova\\Kursova.csproj|C:\\Users\\Lenovo\\source\\repos\\RGRR\\kursova\\restaurantmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6E137D-5E43-4D9A-A6F7-67B4FCC124B8}|Kursova\\Kursova.csproj|solutionrelative:kursova\\restaurantmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B350E9-1C4A-4D95-B13E-D690EE491DB4}|RestaurantMenu\\RestaurantMenu.csproj|C:\\Users\\Lenovo\\source\\repos\\RGRR\\restaurantmenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07B350E9-1C4A-4D95-B13E-D690EE491DB4}|RestaurantMenu\\RestaurantMenu.csproj|solutionrelative:restaurantmenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B350E9-1C4A-4D95-B13E-D690EE491DB4}|RestaurantMenu\\RestaurantMenu.csproj|C:\\Users\\Lenovo\\source\\repos\\RGRR\\restaurantmenu\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{07B350E9-1C4A-4D95-B13E-D690EE491DB4}|RestaurantMenu\\RestaurantMenu.csproj|solutionrelative:restaurantmenu\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RGR.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RGRR\\Kursova\\RGR.csproj",
+              "RelativeDocumentMoniker": "Kursova\\RGR.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RGRR\\Kursova\\RGR.csproj",
+              "RelativeToolTip": "Kursova\\RGR.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T08:36:20.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RGRR\\RestaurantMenu\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "RestaurantMenu\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RGRR\\RestaurantMenu\\Form1.Designer.cs",
+              "RelativeToolTip": "RestaurantMenu\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:02:02.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RGRR\\Kursova\\Program.cs",
+              "RelativeDocumentMoniker": "Kursova\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RGRR\\Kursova\\Program.cs",
+              "RelativeToolTip": "Kursova\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:14:41.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RGRR\\RestaurantMenu\\Form1.cs",
+              "RelativeDocumentMoniker": "RestaurantMenu\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RGRR\\RestaurantMenu\\Form1.cs",
+              "RelativeToolTip": "RestaurantMenu\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:03:14.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RGRR\\RestaurantMenu\\Form1.cs",
+              "RelativeDocumentMoniker": "RestaurantMenu\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Kursova\\RestaurantMenu\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Kursova\\RestaurantMenu\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:01:56.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuITem.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RGRR\\Kursova\\MenuITem.cs",
+              "RelativeDocumentMoniker": "Kursova\\MenuITem.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RGRR\\Kursova\\MenuITem.cs",
+              "RelativeToolTip": "Kursova\\MenuITem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:20:01.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RestaurantMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RGRR\\Kursova\\RestaurantMenu.cs",
+              "RelativeDocumentMoniker": "Kursova\\RestaurantMenu.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RGRR\\Kursova\\RestaurantMenu.cs",
+              "RelativeToolTip": "Kursova\\RestaurantMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:22:18.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\RGRR\\RestaurantMenu\\Form1.resx",
+              "RelativeDocumentMoniker": "RestaurantMenu\\Form1.resx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\RGRR\\RestaurantMenu\\Form1.resx",
+              "RelativeToolTip": "RestaurantMenu\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-30T08:55:50.179Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
